@@ -4,7 +4,7 @@
 #author          :MarkNBroadhead
 #date            :20171108
 #version         :1.0    
-#usage		       :bash upgradeTeamspeak.sh
+#usage		       :./upgradeTeamspeak.sh
 #notes           :Teamspeak3 must be installed at /usr/local/teamspeak3/.
 #bash_version    :4.3.11(1)-release
 #==============================================================================
